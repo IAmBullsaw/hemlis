@@ -3,7 +3,7 @@ messages encoded into morse code expressed in whitespace
 
 ## usage
 
-So... there's not much to explain except that it doesn't work if you don't send it ` >  to a file`.
+So... there's not much to explain except that it doesn't work if you don't send it ` >  to a file` (depending on your settings of course).
 
 ```bash
 $ python3 hemlis.py "vem kunde tro att det här var värt att koda?" > result.txt
